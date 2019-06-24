@@ -1,0 +1,439 @@
+.elementor-widget-heading.elementor-widget-heading .elementor-heading-title {color: #6ec1e4;}
+.elementor-widget-heading .elementor-heading-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-image .widget-image-caption {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-text-editor {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {background-color: #6ec1e4;}
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap {color: #6ec1e4;border-color: #6ec1e4;}
+.elementor-widget-button a.elementor-button, .elementor-widget-button .elementor-button {font-family: "Roboto",Sans-serif;font-weight: 500;background-color: #61ce70;}
+.elementor-widget-divider .elementor-divider-separator {border-top-color: #7a7a7a;}
+.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-title {color: #6ec1e4;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-image-box .elementor-image-box-content .elementor-image-box-description {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-icon.elementor-view-stacked .elementor-icon {background-color: #6ec1e4;}
+.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon {color: #6ec1e4;border-color: #6ec1e4;}
+.elementor-widget-icon-box.elementor-view-stacked .elementor-icon {background-color: #6ec1e4;}
+.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon {color: #6ec1e4;border-color: #6ec1e4;}
+.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-title {color: #6ec1e4;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-icon-box .elementor-icon-box-content .elementor-icon-box-description {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-star-rating .elementor-star-rating__title {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-image-gallery .gallery-item .gallery-caption {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-image-carousel .elementor-image-carousel-caption {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after {border-color: #7a7a7a;}
+.elementor-widget-icon-list .elementor-icon-list-icon i {color: #6ec1e4;}
+.elementor-widget-icon-list .elementor-icon-list-text {color: #54595f;}
+.elementor-widget-icon-list .elementor-icon-list-item {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-counter .elementor-counter-number-wrapper {color: #6ec1e4;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-counter .elementor-counter-title {color: #54595f;font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-progress .elementor-progress-wrapper .elementor-progress-bar {background-color: #6ec1e4;}
+.elementor-widget-progress .elementor-title {color: #6ec1e4;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-testimonial .elementor-testimonial-content {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-testimonial .elementor-testimonial-name {color: #6ec1e4;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-testimonial .elementor-testimonial-job {color: #54595f;font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-tabs .elementor-tab-title {color: #6ec1e4;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-tabs .elementor-tab-title.elementor-active {color: #61ce70;}
+.elementor-widget-tabs .elementor-tab-content {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-accordion .elementor-accordion .elementor-tab-title {color: #6ec1e4;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-accordion .elementor-accordion .elementor-tab-title.elementor-active {color: #61ce70;}
+.elementor-widget-accordion .elementor-accordion .elementor-tab-content {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-toggle .elementor-toggle .elementor-tab-title {color: #6ec1e4;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-toggle .elementor-toggle .elementor-tab-title.elementor-active {color: #61ce70;}
+.elementor-widget-toggle .elementor-toggle .elementor-tab-content {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-alert .elementor-alert-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-alert .elementor-alert-description {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-frel-about-with-rating .left_part h3 {color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .left_part h3:after {background-color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .left_part p {color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .top_section {background-color: #6ec1e4;border-bottom-color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .bottom_section {background-color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .badge_holder {border-color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .badge_holder h3 {color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .badge_holder .year {color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .badge_holder .text {color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .rating_holder {background-color: #6ec1e4;color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .r_header {background-color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .r_footer:after {border-top-color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .r_footer:before {border-top-color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .r_header:before {border-left-color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .r_header:after {border-right-color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating h3.rating_number {color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating h3.rating_text {color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .bottom_section .icon {color: #6ec1e4;border-color: #6ec1e4;}
+.elementor-widget-frel-about-with-rating .bottom_section p {color: #6ec1e4;}
+.elementor-widget-frel-about .leftpart h3.title {color: #6ec1e4;}
+.elementor-widget-frel-about .leftpart h3.title:after {background-color: #6ec1e4;}
+.elementor-widget-frel-about .leftpart p.desc {color: #6ec1e4;}
+.elementor-widget-frel-about .leftpart h3.name {color: #6ec1e4;}
+.elementor-widget-frel-about .leftpart p.occ {color: #6ec1e4;}
+.elementor-widget-frel-about .rightpart .border .span1:after, .elementor-widget-frel-about .rightpart .border .span1:before, .elementor-widget-frel-about .rightpart .border .span2:after, .elementor-widget-frel-about .rightpart .border .span2:before {background-color: #6ec1e4;}
+.elementor-widget-frel-accordion .fn_cs_accordion h3 {color: #6ec1e4;}
+.elementor-widget-frel-accordion .fn_cs_accordion .acc_head p {color: #6ec1e4;}
+.elementor-widget-frel-accordion .fn_cs_accordion .plus:after {background-color: #6ec1e4;}
+.elementor-widget-frel-accordion .fn_cs_accordion .plus:before {background-color: #6ec1e4;}
+.elementor-widget-frel-accordion .fn_cs_accordion .plus {border-color: #6ec1e4;}
+.elementor-widget-frel-accordion .fn_cs_accordion .acc_content p {color: #6ec1e4;}
+.elementor-widget-frel-arrow-link a {color: #6ec1e4;}
+.elementor-widget-frel-arrow-link a svg {color: #6ec1e4;}
+.elementor-widget-frel-bottom-line p {color: #6ec1e4;}
+.elementor-widget-frel-bottom-line .inner {border-top-color: #6ec1e4;}
+.elementor-widget-frel-button a {font-family: "Roboto",Sans-serif;font-weight: 600;color: #6ec1e4;background-color: #6ec1e4;}
+.elementor-widget-frel-button a:hover {color: #6ec1e4;background-color: #6ec1e4;}
+.elementor-widget-frel-call-to-action h3 {font-family: "Roboto",Sans-serif;font-weight: 600;color: #6ec1e4;}
+.elementor-widget-frel-call-to-action p {font-family: "Roboto",Sans-serif;font-weight: 600;color: #6ec1e4;}
+.elementor-widget-frel-call-to-action a {font-family: "Roboto",Sans-serif;font-weight: 600;color: #6ec1e4;background-color: #6ec1e4;}
+.elementor-widget-frel-call-to-action .fn_cs_call_to_action {background-color: #6ec1e4;}
+.elementor-widget-frel-call-to-action a:hover {color: #6ec1e4;background-color: #6ec1e4;}
+.elementor-widget-frel-check-list .fn_cs_check_list h3 {color: #6ec1e4;}
+.elementor-widget-frel-check-list .fn_cs_check_list p {color: #6ec1e4;}
+.elementor-widget-frel-check-list .fn_cs_check_list svg {color: #6ec1e4;}
+.elementor-widget-frel-check-list .fn_cs_check_list img {color: #6ec1e4;}
+.elementor-widget-frel-counter-with-content .fn_cs_counter_with_content:after {background-color: #6ec1e4;}
+.elementor-widget-frel-counter-with-content .fn_cs_counter_with_content:before, .elementor-widget-frel-counter-with-content .rightpart:after {background-color: #6ec1e4;}
+.elementor-widget-frel-counter-with-content .leftpart h3 {color: #6ec1e4;}
+.elementor-widget-frel-counter-with-content .leftpart p {color: #6ec1e4;}
+.elementor-widget-frel-counter-with-content .rightpart h5 {color: #6ec1e4;}
+.elementor-widget-frel-counter-with-content .rightpart h3 {color: #6ec1e4;}
+.elementor-widget-frel-counter-with-content .rightpart p {color: #6ec1e4;}
+.elementor-widget-frel-counter-with-content .o_color {background-color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .fn_cs_counter_with_rating:after {background-color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .leftpart h3 {color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .leftpart p {color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .o_image:after {background-color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .content_holder h5 {color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .content_holder h3 {color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .content_holder h3:after {background-color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .content_holder p {color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .o_color {background-color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .rightpart:after {background-color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .rightpart:before {border-right-color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .rating_holder:after {background-color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .rating_holder .r_footer:before {border-top-color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .rating_holder .r_footer:after {border-top-color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating .rating_holder {color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating h3.rating_number {color: #6ec1e4;}
+.elementor-widget-frel-counter-with-rating h3.rating_text {color: #6ec1e4;}
+.elementor-widget-frel-description p {color: #6ec1e4;}
+.elementor-widget-frel-experience .o_color {background-color: #6ec1e4;}
+.elementor-widget-frel-experience .badge_holder {border-color: #6ec1e4;}
+.elementor-widget-frel-experience .title h3 {color: #6ec1e4;}
+.elementor-widget-frel-experience .desc span.year {color: #6ec1e4;}
+.elementor-widget-frel-experience .desc span.text {color: #6ec1e4;}
+.elementor-widget-frel-experience .list span {color: #6ec1e4;}
+.elementor-widget-frel-experience .list span:after {background-color: #6ec1e4;}
+.elementor-widget-frel-full-custom-list .top_bar {background-color: #6ec1e4;}
+.elementor-widget-frel-full-custom-list .t_inner h3 {color: #6ec1e4;}
+.elementor-widget-frel-full-custom-list .t_inner span {color: #6ec1e4;}
+.elementor-widget-frel-full-custom-list .owl_control div {background-color: #6ec1e4;}
+.elementor-widget-frel-full-custom-list .owl_control .fn_prev:after {border-right-color: #6ec1e4;}
+.elementor-widget-frel-full-custom-list .owl_control .fn_next:after {border-left-color: #6ec1e4;}
+.elementor-widget-frel-full-custom-list .service_part .item .img_holder:after {background-color: #6ec1e4;}
+.elementor-widget-frel-full-custom-list .service_part .item .title h3 a {color: #6ec1e4;}
+.elementor-widget-frel-full-custom-list .service_part .item .title h3 a:hover {color: #6ec1e4;}
+.elementor-widget-frel-full-custom-list .service_part .item .view_more a {color: #6ec1e4;border-color: #6ec1e4;}
+.elementor-widget-frel-full-custom-list .service_part .item .view_more a:hover {color: #6ec1e4;border-color: #6ec1e4;}
+.elementor-widget-frel-hero-header-modern .o_color {background-color: #6ec1e4;}
+.elementor-widget-frel-hero-header-modern .content_holder h3 {color: #6ec1e4;}
+.elementor-widget-frel-hero-header-modern .content_holder h3:after {background-color: #6ec1e4;}
+.elementor-widget-frel-hero-header-modern .content_holder p {color: #6ec1e4;}
+.elementor-widget-frel-hero-header-modern .video .text {color: #6ec1e4;}
+.elementor-widget-frel-hero-header-modern .video .icon {border-color: #6ec1e4;}
+.elementor-widget-frel-hero-header-modern .video .icon:after {border-left-color: #6ec1e4;}
+.elementor-widget-frel-hero-header-modern .video .icon:before {border-color: #6ec1e4;}
+.elementor-widget-frel-hero-header .o_color {background-color: #6ec1e4;}
+.elementor-widget-frel-hero-header .content_holder h3 {color: #6ec1e4;}
+.elementor-widget-frel-hero-header .content_holder h3:after {background-color: #6ec1e4;}
+.elementor-widget-frel-hero-header .content_holder p {color: #6ec1e4;}
+.elementor-widget-frel-hero-header a.discover {color: #6ec1e4;background-color: #6ec1e4;}
+.elementor-widget-frel-hero-header a.discover:hover {color: #6ec1e4;background-color: #6ec1e4;}
+.elementor-widget-frel-hero-header .video .text {color: #6ec1e4;}
+.elementor-widget-frel-hero-header .video .icon {border-color: #6ec1e4;}
+.elementor-widget-frel-hero-header .video .icon:after {border-left-color: #6ec1e4;}
+.elementor-widget-frel-hero-header .video .icon:before {border-color: #6ec1e4;}
+.elementor-widget-frel-info-list .fn_cs_info_list.full {background-color: #6ec1e4;}
+.elementor-widget-frel-info-list .fn_cs_info_list.contained .list {background-color: #6ec1e4;}
+.elementor-widget-frel-info-list .fn_cs_info_list h3 {color: #6ec1e4;}
+.elementor-widget-frel-info-list .fn_cs_info_list p {color: #6ec1e4;}
+.elementor-widget-frel-info-list .fn_cs_info_list svg {color: #6ec1e4;}
+.elementor-widget-frel-info-list .fn_cs_info_list .icon {border-color: #6ec1e4;}
+.elementor-widget-frel-info-rating .o_color {background-color: #6ec1e4;}
+.elementor-widget-frel-info-rating .left_part {background-color: #6ec1e4;}
+.elementor-widget-frel-info-rating .left_part:after {background-color: #6ec1e4;}
+.elementor-widget-frel-info-rating .left_part:before {background-color: #6ec1e4;}
+.elementor-widget-frel-info-rating .left_part h3 {color: #6ec1e4;}
+.elementor-widget-frel-info-rating .left_part p {color: #6ec1e4;}
+.elementor-widget-frel-info-rating .l_video .text {color: #6ec1e4;}
+.elementor-widget-frel-info-rating .l_video .icon {border-color: #6ec1e4;}
+.elementor-widget-frel-info-rating .l_video .text:after {background-color: #6ec1e4;}
+.elementor-widget-frel-info-rating .middle_part .m_in {background-color: #6ec1e4;}
+.elementor-widget-frel-info-rating .middle_part .rating_holder {background-color: #6ec1e4;color: #6ec1e4;}
+.elementor-widget-frel-info-rating .middle_part .r_header {background-color: #6ec1e4;}
+.elementor-widget-frel-info-rating .middle_part .r_footer:before {border-top-color: #6ec1e4;}
+.elementor-widget-frel-info-rating .middle_part .r_footer:after {border-top-color: #6ec1e4;}
+.elementor-widget-frel-info-rating .middle_part .r_header:before {border-left-color: #6ec1e4;}
+.elementor-widget-frel-info-rating .middle_part .r_header:after {border-right-color: #6ec1e4;}
+.elementor-widget-frel-info-rating .middle_part h3.rating_number {color: #6ec1e4;}
+.elementor-widget-frel-info-rating .middle_part h3.rating_text {color: #6ec1e4;}
+.elementor-widget-frel-info-rating .middle_part .tagline_holder span {color: #6ec1e4;}
+.elementor-widget-frel-info-rating .middle_part .tagline_holder span:after {background-color: #6ec1e4;}
+.elementor-widget-frel-introduce .o_color {background-color: #6ec1e4;}
+.elementor-widget-frel-introduce .wing12 {border-right-color: #6ec1e4;}
+.elementor-widget-frel-introduce .wing11 {border-left-color: #6ec1e4;}
+.elementor-widget-frel-introduce .wing22 {border-top-color: #6ec1e4;}
+.elementor-widget-frel-introduce .wing21 {border-top-color: #6ec1e4;}
+.elementor-widget-frel-introduce .title_holder h5 {color: #6ec1e4;}
+.elementor-widget-frel-introduce .title_holder h3 {color: #6ec1e4;}
+.elementor-widget-frel-introduce .title_holder h3:after {background-color: #6ec1e4;}
+.elementor-widget-frel-introduce .title_holder p {color: #6ec1e4;}
+.elementor-widget-frel-introduce .badge_holder {border-color: #6ec1e4;}
+.elementor-widget-frel-introduce .badge_holder h3 {color: #6ec1e4;}
+.elementor-widget-frel-introduce .badge_holder .year {color: #6ec1e4;}
+.elementor-widget-frel-introduce .badge_holder span:not(.year) {color: #6ec1e4;}
+.elementor-widget-frel-introduce .fn_cs_introduce span.video {background-color: #6ec1e4;}
+.elementor-widget-frel-introduce .fn_cs_introduce span.video span:before {border-color: #6ec1e4;}
+.elementor-widget-frel-introduce .fn_cs_introduce span.video:before, .elementor-widget-frel-introduce .fn_cs_introduce span.video:after {border-left-color: #6ec1e4;}
+.elementor-widget-frel-location-list .fn_cs_location_list .title_holder {background-color: #6ec1e4;}
+.elementor-widget-frel-location-list .fn_cs_location_list h3 {color: #6ec1e4;}
+.elementor-widget-frel-location-list .fn_cs_location_list .icon {background-color: #6ec1e4;color: #6ec1e4;}
+.elementor-widget-frel-location-list .fn_cs_location_list .shape {background-color: #6ec1e4;}
+.elementor-widget-frel-location-list .fn_cs_location_list .content_holder {background-color: #6ec1e4;}
+.elementor-widget-frel-location-list .fn_cs_location_list p {color: #6ec1e4;}
+.elementor-widget-frel-location-list .fn_cs_location_list a {color: #6ec1e4;}
+.elementor-widget-frel-main-slider-with-content .o_color {background-color: #6ec1e4;}
+.elementor-widget-frel-main-slider-with-content .title_holder h3 {color: #6ec1e4;}
+.elementor-widget-frel-main-slider-with-content .title_holder p {color: #6ec1e4;}
+.elementor-widget-frel-main-slider-with-content .swiper_controller div {background-color: #6ec1e4;}
+.elementor-widget-frel-main-slider-with-content .swiper_controller .fn_next:after {border-left-color: #6ec1e4;}
+.elementor-widget-frel-main-slider-with-content .swiper_controller .fn_prev:after {border-right-color: #6ec1e4;}
+.elementor-widget-frel-main-slider-with-content .swiper_pagination > span {color: #6ec1e4;}
+.elementor-widget-frel-main-title h3 {color: #6ec1e4;}
+.elementor-widget-frel-main-title h3 span {color: #6ec1e4;}
+.elementor-widget-frel-main-title h3:after {background-color: #6ec1e4;}
+.elementor-widget-frel-principles-modern .fn_cs_principles_modern:after {background-color: #6ec1e4;}
+.elementor-widget-frel-principles-modern .inner {background-color: #6ec1e4;}
+.elementor-widget-frel-principles-modern .inner:after {background-color: #6ec1e4;}
+.elementor-widget-frel-principles-modern .inner:before {background-color: #6ec1e4;}
+.elementor-widget-frel-principles-modern .shape span.shape1 {border-right-color: #6ec1e4;}
+.elementor-widget-frel-principles-modern .shape span.shape2 {border-left-color: #6ec1e4;}
+.elementor-widget-frel-principles-modern .item {border-color: #6ec1e4;}
+.elementor-widget-frel-principles-modern .number_holder {background-color: #6ec1e4;color: #6ec1e4;}
+.elementor-widget-frel-principles-modern .number_holder:after {border-top-color: #6ec1e4;}
+.elementor-widget-frel-principles-modern .item h3 {color: #6ec1e4;}
+.elementor-widget-frel-principles-modern .item p {color: #6ec1e4;}
+.elementor-widget-frel-principles-modern .item a {color: #6ec1e4;}
+.elementor-widget-frel-principles .left_part h3 {color: #6ec1e4;}
+.elementor-widget-frel-principles .left_part h3:after {background-color: #6ec1e4;}
+.elementor-widget-frel-principles .left_part p {color: #6ec1e4;}
+.elementor-widget-frel-principles li .title_holder:after {background-color: #6ec1e4;}
+.elementor-widget-frel-principles li .item:after {background-color: #6ec1e4;}
+.elementor-widget-frel-principles li .title_holder:before {border-left-color: #6ec1e4;}
+.elementor-widget-frel-principles li .item:before {border-top-color: #6ec1e4;}
+.elementor-widget-frel-principles .item .title_holder {background-color: #6ec1e4;}
+.elementor-widget-frel-principles .right_part h3 {color: #6ec1e4;}
+.elementor-widget-frel-principles .right_part p {color: #6ec1e4;}
+.elementor-widget-frel-principles .number_holder {color: #6ec1e4;background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-full .right_part {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-full .right_part .title_holder {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-full .right_part .title_holder h3 a {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-full .right_part .title_holder h3 a:hover {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-full .right_part .title_holder p a {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-full .right_part .title_holder p {border-top-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-full .right_part .title_holder p:after {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-full .left_part h3 {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-full .left_part h3:after {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-full .left_part p {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-full .left_part a {color: #6ec1e4;background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-full .left_part a:hover {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-modern .right_part .title_holder h3 a {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-modern .right_part .title_holder p a {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-modern .right_part .item:hover .title_holder p a {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-modern .right_part .item:after {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-modern .right_part .img_holder a {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-modern .right_part .item:hover .img_holder a {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-modern .right_part .img_holder a:before {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-modern .right_part .img_holder a:after {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-modern .left_part_in {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-modern .left_part h3 {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-modern .left_part h3:after {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-modern .left_part p {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-modern .left_part a {color: #6ec1e4;background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky-modern .left_part a:hover {color: #6ec1e4;background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky .right_part .title_holder h3 a {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky .right_part .title_holder p a {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky .right_part .item:hover .title_holder p a {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky .right_part .item:after {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky .right_part .img_holder a {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky .right_part .item:hover .img_holder a {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky .right_part .img_holder a:before {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky .right_part .img_holder a:after {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky .left_part h3 {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky .left_part h3:after {background-color: #6ec1e4;}
+.elementor-widget-frel-project-sticky .left_part p {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky .left_part a {color: #6ec1e4;}
+.elementor-widget-frel-project-sticky .left_part a svg {color: #6ec1e4;}
+.elementor-widget-frel-service-query .top_bar {background-color: #6ec1e4;}
+.elementor-widget-frel-service-query .t_inner h3 {color: #6ec1e4;}
+.elementor-widget-frel-service-query .t_inner span {color: #6ec1e4;}
+.elementor-widget-frel-service-query .owl_control div {background-color: #6ec1e4;}
+.elementor-widget-frel-service-query .owl_control .fn_prev:after {border-right-color: #6ec1e4;}
+.elementor-widget-frel-service-query .owl_control .fn_next:after {border-left-color: #6ec1e4;}
+.elementor-widget-frel-service-query .service_part .item .img_holder:after {background-color: #6ec1e4;}
+.elementor-widget-frel-service-query .service_part .item .title h3 a {color: #6ec1e4;}
+.elementor-widget-frel-service-query .service_part .item .title h3 a:hover {color: #6ec1e4;}
+.elementor-widget-frel-service-query .service_part .item .view_more a {color: #6ec1e4;border-color: #6ec1e4;}
+.elementor-widget-frel-service-query .service_part .item .view_more a:hover {color: #6ec1e4;border-color: #6ec1e4;}
+.elementor-widget-frel-services-classic span.bg1 {background-color: #6ec1e4;}
+.elementor-widget-frel-services-classic span.bg2 {background-color: #6ec1e4;}
+.elementor-widget-frel-services-classic .arrow {color: #6ec1e4;}
+.elementor-widget-frel-services-classic .icon {color: #6ec1e4;}
+.elementor-widget-frel-services-classic h3 {color: #6ec1e4;}
+.elementor-widget-frel-services-classic p {color: #6ec1e4;}
+.elementor-widget-frel-services-classic span.more_details a {color: #6ec1e4;}
+.elementor-widget-frel-services span.bg1 {background-color: #6ec1e4;border-color: #6ec1e4;}
+.elementor-widget-frel-services .icon {background-color: #6ec1e4;color: #6ec1e4;}
+.elementor-widget-frel-services .icon span:after {border-top-color: #6ec1e4;}
+.elementor-widget-frel-services .icon:after {border-right-color: #6ec1e4;}
+.elementor-widget-frel-services .icon:before {border-left-color: #6ec1e4;}
+.elementor-widget-frel-services h3 {color: #6ec1e4;}
+.elementor-widget-frel-services p {color: #6ec1e4;}
+.elementor-widget-frel-services span.bg2 {background-color: #6ec1e4;}
+.elementor-widget-frel-services .item:hover h3 {color: #6ec1e4;}
+.elementor-widget-frel-services .item:hover p {color: #6ec1e4;}
+.elementor-widget-frel-services .arrow {color: #6ec1e4;}
+.elementor-widget-frel-single-testimonial p {color: #6ec1e4;}
+.elementor-widget-frel-single-testimonial h3 {color: #6ec1e4;}
+.elementor-widget-frel-single-testimonial h5 {color: #6ec1e4;}
+.elementor-widget-frel-single-testimonial .inner {border-color: #6ec1e4;}
+.elementor-widget-frel-single-testimonial svg, .elementor-widget-frel-single-testimonial img {color: #6ec1e4;}
+.elementor-widget-frel-support-block .desc p {font-family: "Roboto",Sans-serif;font-weight: 600;color: #6ec1e4;}
+.elementor-widget-frel-support-block .bottom_section .link_block a {font-family: "Roboto",Sans-serif;font-weight: 600;color: #6ec1e4;background-color: #6ec1e4;}
+.elementor-widget-frel-support-block .bottom_section .tfree_block p {font-family: "Roboto",Sans-serif;font-weight: 600;color: #6ec1e4;}
+.elementor-widget-frel-support-block .support_block {background-color: #6ec1e4;border-color: #6ec1e4;}
+.elementor-widget-frel-support-block .bottom_section .link_block a:hover {color: #6ec1e4;background-color: #6ec1e4;}
+.elementor-widget-frel-support-block .bottom_section div:nth-child(2):after {background-color: #6ec1e4;}
+.elementor-widget-frel-support-block .icon {background-color: #6ec1e4;color: #6ec1e4;}
+.elementor-widget-frel-support-block .icon span:after {border-top-color: #6ec1e4;}
+.elementor-widget-frel-support-block .icon:after {border-right-color: #6ec1e4;}
+.elementor-widget-frel-support-block .icon:before {border-left-color: #6ec1e4;}
+.elementor-widget-frel-support-block .img_wrap span {border-right-color: #6ec1e4;}
+.elementor-widget-frel-triple-blog-modern .time span:after {background-color: #6ec1e4;}
+.elementor-widget-frel-triple-blog-modern .time span:before {border-top-color: #6ec1e4;}
+.elementor-widget-frel-triple-blog-modern .time h3 {color: #6ec1e4;}
+.elementor-widget-frel-triple-blog-modern .time h5 {color: #6ec1e4;}
+.elementor-widget-frel-triple-blog-modern .time h3:after {background-color: #6ec1e4;}
+.elementor-widget-frel-triple-blog-modern .title_holder p.t_header {color: #6ec1e4;}
+.elementor-widget-frel-triple-blog-modern p.t_header a {color: #6ec1e4;border-bottom-color: #6ec1e4;}
+.elementor-widget-frel-triple-blog-modern .title_holder h3 a {color: #6ec1e4;}
+.elementor-widget-frel-triple-blog-modern .title_holder h3 a:hover {color: #6ec1e4;}
+.elementor-widget-frel-triple-blog-modern p.t_footer a.bg {color: #6ec1e4;background-color: #6ec1e4;}
+.elementor-widget-frel-triple-blog-modern p.t_footer a.bg:hover {color: #6ec1e4;background-color: #6ec1e4;}
+.elementor-widget-frel-triple-blog-modern p.t_footer a.arr {color: #6ec1e4;}
+.elementor-widget-frel-triple-blog .title_holder h3 a {color: #6ec1e4;}
+.elementor-widget-frel-triple-blog .title_holder h3 a:hover {color: #6ec1e4;}
+.elementor-widget-frel-triple-blog .title_holder p {color: #6ec1e4;}
+.elementor-widget-frel-triple-blog a.icon {color: #6ec1e4;}
+.elementor-widget-theme-site-logo .widget-image-caption {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-theme-site-title.elementor-widget-heading .elementor-heading-title {color: #6ec1e4;}
+.elementor-widget-theme-site-title .elementor-heading-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-theme-page-title.elementor-widget-heading .elementor-heading-title {color: #6ec1e4;}
+.elementor-widget-theme-page-title .elementor-heading-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-theme-post-title.elementor-widget-heading .elementor-heading-title {color: #6ec1e4;}
+.elementor-widget-theme-post-title .elementor-heading-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-theme-post-excerpt .elementor-widget-container {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-theme-post-content {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-theme-post-featured-image .widget-image-caption {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-theme-archive-title.elementor-widget-heading .elementor-heading-title {color: #6ec1e4;}
+.elementor-widget-theme-archive-title .elementor-heading-title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-archive-posts .elementor-post__title, .elementor-widget-archive-posts .elementor-post__title a {color: #54595f;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-archive-posts .elementor-post__meta-data {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-archive-posts .elementor-post__excerpt p {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-archive-posts .elementor-post__read-more {color: #61ce70;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-archive-posts .elementor-post__card .elementor-post__badge {background-color: #61ce70;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-archive-posts .elementor-pagination {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-archive-posts .elementor-posts-nothing-found {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-posts .elementor-post__title, .elementor-widget-posts .elementor-post__title a {color: #54595f;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-posts .elementor-post__meta-data {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-posts .elementor-post__excerpt p {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-posts .elementor-post__read-more {color: #61ce70;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-posts .elementor-post__card .elementor-post__badge {background-color: #61ce70;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-posts .elementor-pagination {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-portfolio a .elementor-portfolio-item__overlay {background-color: #61ce70;}
+.elementor-widget-portfolio .elementor-portfolio-item__title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-portfolio .elementor-portfolio__filter {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-portfolio .elementor-portfolio__filter.elementor-active {color: #6ec1e4;}
+.elementor-widget-slides .elementor-slide-heading {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-slides .elementor-slide-description {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-slides .elementor-slide-button {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-form .elementor-field-group > label, .elementor-widget-form .elementor-field-subgroup label {color: #7a7a7a;}
+.elementor-widget-form .elementor-field-group > label {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-form .elementor-field-group .elementor-field {color: #7a7a7a;}
+.elementor-widget-form .elementor-field-group .elementor-field, .elementor-widget-form .elementor-field-subgroup label {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-form .elementor-button {background-color: #61ce70;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-form .elementor-message {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-login .elementor-field-group > a {color: #7a7a7a;}
+.elementor-widget-login .elementor-field-group > a:hover {color: #61ce70;}
+.elementor-widget-login .elementor-form-fields-wrapper label {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-login .elementor-field-group .elementor-field {color: #7a7a7a;}
+.elementor-widget-login .elementor-field-group .elementor-field, .elementor-widget-login .elementor-field-subgroup label {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-login .elementor-button {font-family: "Roboto",Sans-serif;font-weight: 500;background-color: #61ce70;}
+.elementor-widget-nav-menu .elementor-nav-menu--main {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item {color: #7a7a7a;}
+.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover, .elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active, .elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.highlighted, .elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:focus {color: #61ce70;}
+.elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before, .elementor-widget-nav-menu .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after {background-color: #61ce70;}
+.elementor-widget-nav-menu .e--pointer-framed .elementor-item:before, .elementor-widget-nav-menu .e--pointer-framed .elementor-item:after {border-color: #61ce70;}
+.elementor-widget-nav-menu .elementor-nav-menu--dropdown {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-animated-headline .elementor-headline-dynamic-wrapper path {stroke: #61ce70;}
+.elementor-widget-animated-headline .elementor-headline-plain-text {color: #54595f;}
+.elementor-widget-animated-headline .elementor-headline {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-animated-headline .elementor-headline-dynamic-text {color: #54595f;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-price-list .elementor-price-list-header {color: #6ec1e4;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-price-list .elementor-price-list-description {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-price-list .elementor-price-list-separator {border-bottom-color: #54595f;}
+.elementor-widget-price-table .elementor-price-table__header {background-color: #54595f;}
+.elementor-widget-price-table .elementor-price-table__heading {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-price-table .elementor-price-table__subheading {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-price-table .elementor-price-table__price {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-price-table .elementor-price-table__original-price {color: #54595f;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-price-table .elementor-price-table__period {color: #54595f;font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-price-table .elementor-price-table__features-list {color: #7a7a7a;}
+.elementor-widget-price-table .elementor-price-table__features-list li {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-price-table .elementor-price-table__features-list li:before {border-top-color: #7a7a7a;}
+.elementor-widget-price-table .elementor-price-table__button {font-family: "Roboto",Sans-serif;font-weight: 500;background-color: #61ce70;}
+.elementor-widget-price-table .elementor-price-table__additional_info {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-price-table .elementor-price-table__ribbon-inner {background-color: #61ce70;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-flip-box .elementor-flip-box__front .elementor-flip-box__layer__description {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-flip-box .elementor-flip-box__back .elementor-flip-box__layer__description {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-flip-box .elementor-flip-box__button {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-call-to-action .elementor-cta__title {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-call-to-action .elementor-cta__description {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-call-to-action .elementor-cta__button {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-call-to-action .elementor-ribbon-inner {background-color: #61ce70;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-media-carousel .elementor-carousel-image-overlay {font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-testimonial-carousel .elementor-testimonial__text {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-testimonial-carousel .elementor-testimonial__name {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-testimonial-carousel .elementor-testimonial__title {color: #6ec1e4;font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-reviews .elementor-testimonial__header, .elementor-widget-reviews .elementor-testimonial__name {font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-reviews .elementor-testimonial__text {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-countdown .elementor-countdown-item {background-color: #6ec1e4;}
+.elementor-widget-countdown .elementor-countdown-digits {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-countdown .elementor-countdown-label {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-countdown .elementor-countdown-expire--message {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-search-form input[type="search"].elementor-search-form__input {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-search-form .elementor-search-form__input, .elementor-widget-search-form .elementor-search-form__icon, .elementor-widget-search-form .elementor-lightbox .dialog-lightbox-close-button, .elementor-widget-search-form .elementor-lightbox .dialog-lightbox-close-button:hover, .elementor-widget-search-form.elementor-search-form--skin-full_screen input[type="search"].elementor-search-form__input {color: #7a7a7a;}
+.elementor-widget-search-form .elementor-search-form__submit {font-family: "Roboto",Sans-serif;font-weight: 400;background-color: #54595f;}
+.elementor-widget-author-box .elementor-author-box__name {color: #54595f;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-author-box .elementor-author-box__bio {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-author-box .elementor-author-box__button {color: #54595f;border-color: #54595f;font-family: "Roboto",Sans-serif;font-weight: 500;}
+.elementor-widget-author-box .elementor-author-box__button:hover {border-color: #54595f;color: #54595f;}
+.elementor-widget-post-navigation span.post-navigation__prev--label {color: #7a7a7a;}
+.elementor-widget-post-navigation span.post-navigation__next--label {color: #7a7a7a;}
+.elementor-widget-post-navigation span.post-navigation__prev--label, .elementor-widget-post-navigation span.post-navigation__next--label {font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-post-navigation span.post-navigation__prev--title, .elementor-widget-post-navigation span.post-navigation__next--title {color: #54595f;font-family: "Roboto Slab",Sans-serif;font-weight: 400;}
+.elementor-widget-post-info .elementor-icon-list-item:not(:last-child):after {border-color: #7a7a7a;}
+.elementor-widget-post-info .elementor-icon-list-icon i {color: #6ec1e4;}
+.elementor-widget-post-info .elementor-icon-list-text, .elementor-widget-post-info .elementor-icon-list-text a {color: #54595f;}
+.elementor-widget-post-info .elementor-icon-list-item {font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-sitemap .elementor-sitemap-title {color: #6ec1e4;font-family: "Roboto",Sans-serif;font-weight: 600;}
+.elementor-widget-sitemap .elementor-sitemap-item, .elementor-widget-sitemap span.elementor-sitemap-list, .elementor-widget-sitemap .elementor-sitemap-item a {color: #7a7a7a;font-family: "Roboto",Sans-serif;font-weight: 400;}
+.elementor-widget-sitemap .elementor-sitemap-item {color: #7a7a7a;}
+.elementor-widget-blockquote .elementor-blockquote__content {color: #7a7a7a;}
+.elementor-widget-blockquote .elementor-blockquote__author {color: #54595f;}
