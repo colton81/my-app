@@ -54,3 +54,7 @@ body.box-style .main-wrapper {
     -moz-transition: all 400ms ease-in-out;
     transition: all 400ms ease-in-out;
 }
+
+.elementor-section {
+    background-color: black !important;
+}
