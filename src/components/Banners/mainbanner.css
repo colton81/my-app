@@ -1,0 +1,45 @@
+.d-table {
+    width: 100%;
+    height: 100%;
+    grid-area: 2 / 1 / 3 / 2;
+    vertical-align: center;
+    display: grid;
+
+    
+}
+.container.h-100 { 
+    display: grid; 
+    grid-template-columns: 1fr; 
+    grid-template-rows: 1fr 1fr 1fr; 
+    grid-column-gap: 0px;
+    grid-row-gap: 23px; 
+    height: 100% !important;
+    min-height: 60rem;
+    }
+    @media only screen and (max-width: 900px) {
+        .container.h-100 {   height: 50px !important; grid-template-rows: 0.3fr; }
+        .d-table { grid-area: 1 / 1 / 1 / 1; }
+    }
+
+.d-table-cell {
+    vertical-align: center;
+    top: -50%;
+    bottom: -50%;
+    display: table-cell;
+    grid-area: 2 / 1 / 3 / 2; 
+}
+.main-banner-text {
+    text-align: center;
+}
+
+.main-banner-text h1 span {
+    color: red;
+    font-weight: 600;
+    grid-area: 2 / 1 / 3 / 2; 
+}
+
+.main-banner-text {
+    color: white;
+    
+}
+

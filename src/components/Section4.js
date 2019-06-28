@@ -36,7 +36,7 @@ export default class Section4 extends Component {
                           >
                             <div className="top_bar">
                               <div className="t_inner">
-                                <h3>Our Industries</h3>
+                                <h3>Our Projects</h3>
                                 <span></span>
                                 <div className="owl_control">
                                   <div className="fn_prev"></div>
@@ -209,7 +209,7 @@ export default class Section4 extends Component {
                                     <h3>
                                       <a
                                         href="myservice/energy-commodities/"
-                                        >Energy & Commodities</a
+                                        ></a
                                       >
                                     </h3>
                                   </div>
@@ -245,7 +245,7 @@ export default class Section4 extends Component {
                                     <h3>
                                       <a
                                         href="myservice/medical-devices/"
-                                        >Medical Devices</a
+                                        ></a
                                       >
                                     </h3>
                                   </div>

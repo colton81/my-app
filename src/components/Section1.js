@@ -32,10 +32,9 @@ export default class Section1 extends Component {
           <video
             style={{
               position: "absolute",
-
               min_width: "100%",
               min_height: "100%",
-              width: "auto",
+              width: "100%",
               height: "auto",
               z_index: "0"
             }}

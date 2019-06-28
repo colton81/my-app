@@ -10,6 +10,7 @@ import Section8 from "./components/Section8";
 import Section9 from "./components/Section9";
 
 import NavBar from './components/NavBar'
+import MainBanner from "./components/Banners/MainBanner";
 
 
 function Home() {
@@ -27,7 +28,7 @@ function Home() {
               
                 
                 <NavBar />
-                  <Section1 />
+                  <MainBanner />
                   <Section2></Section2>
                   <Section3 />
                   <Section4 />
